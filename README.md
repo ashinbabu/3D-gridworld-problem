@@ -5,3 +5,6 @@
 3. Reason about convergence criteria, exploration vs. exploitation, learning curves, and learnedpolicy
 evaluation.
 4. Visualize and interpret optimal maxₐ Q(s,a) value functions and policies in 3D.
+
+create a virtual environment Python 3.10.18
+run requirements.txt
