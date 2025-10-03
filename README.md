@@ -11,6 +11,6 @@ run requirements.txt
 
 # CODE:
 
-conda create --name ml python=3.10
-conda activate ml
-pip instal -r requirements.txt
+conda create --name ml python=3.10  
+conda activate ml  
+pip instal -r requirements.txt  
