@@ -8,3 +8,9 @@ evaluation.
 
 create a virtual environment Python 3.10.18
 run requirements.txt
+
+# CODE:
+
+conda create --name ml python=3.10
+conda activate ml
+pip instal -r requirements.txt
